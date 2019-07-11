@@ -1,0 +1,7 @@
+action: GLOB, msg: packaging
+cwd: D:\eclipse-workspace\Demo1
+cmd: 'c:\users\ganesh.kumar\appdata\local\programs\python\python37\python.exe' setup.py sdist --formats=zip --dist-dir 'D:\eclipse-workspace\Demo1\.tox\dist'
+Traceback (most recent call last):
+  File "setup.py", line 3, in <module>
+    with open("README.md", "r") as fh:
+FileNotFoundError: [Errno 2] No such file or directory: 'README.md'

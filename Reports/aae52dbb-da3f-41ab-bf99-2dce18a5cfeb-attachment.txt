@@ -1,0 +1,9 @@
+Chrome Environment Set Up
+------------------------------------------------------------------
+Register Link displaying
+To create your account, we'll need some basic information about you. This information will be used to send reservation confirmation emails, mail tickets when needed and contact you if your travel arrangements change. Please fill in the form completely.
+Thank you for registering. You may now sign-in using the user name and password you've just entered.
+Registration Process Successful
+------------------------------------------------------------------
+Test Environment Destroyed
+Run Completed at :2019-07-05 16:14:55.395672
