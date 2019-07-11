@@ -35,14 +35,14 @@ For Firefox
 
 If your setup goes well, you should be to run a simple test with this command:
 
-pytest
+e.g hit pytest and all test case will get executed
 
-Rerun Failed
+#Rerun Failed:
 pytest --reruns 2 
 
-Parallel execution
+#Parallel execution
 pytest -n <numberofbrowser> e.g 3
 
-Report
+#Report
 pytest --html= "dir localtion" + report.html
 
